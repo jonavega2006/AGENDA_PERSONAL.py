@@ -50,7 +50,7 @@ ventana.configure(bg="#2F2F2F")
 messagebox.showinfo("Bienvenido", "Bienvenido a tu Agenda Personal ")
 
 # ----- Título -----
-lbl_titulo = tk.Label(ventana, text="Agenda Personal Universitaria",
+lbl_titulo = tk.Label(ventana, text="Agenda Personal ",
                       bg="#2F2F2F", fg="white", font=("Arial", 16, "bold"))
 lbl_titulo.pack(pady=10)
 
