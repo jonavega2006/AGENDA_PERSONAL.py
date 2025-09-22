@@ -1,4 +1,4 @@
-# Agenda Personal Universitaria
+# Agenda Personal
 
 Esta es una **agenda personal** desarrollada en **Python** con interfaz gráfica usando **Tkinter** y **tkcalendar**. Permite registrar eventos con fecha, hora y descripción, mostrarlos en una lista, eliminarlos y mantener un contador de eventos guardados.
 
